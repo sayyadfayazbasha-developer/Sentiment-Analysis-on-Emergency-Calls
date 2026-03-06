@@ -1,7 +1,0 @@
-project_id = "yoahbelmymuuyqwvfogr"
-
-[functions.send-emergency-alerts]
-verify_jwt = false
-
-[functions.promote-to-admin]
-verify_jwt = false
